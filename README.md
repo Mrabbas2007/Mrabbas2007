@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MR.Abbas
-- 👀 I’m interested in React , Django adn ....
+- 👀 I’m interested in React , Django and ...
   
 
 <!---
