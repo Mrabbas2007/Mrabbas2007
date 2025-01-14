@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MR.Abbas
-- 👀 I’m interested in Front-End ...
+- 👀 I’m interested in programing ...
   
 
 <!---
