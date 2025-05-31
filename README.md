@@ -7,7 +7,7 @@ Web Developer
 I've been learning to code for 5 years after switching careers. I started with HTML, but have really found a passion for backend development,.
 
 * 🌍  I'm based in Mashhad
-* 🖥️  See my portfolio at [MrAbbas.ir](http://mrabbas.ir)
+* 🖥️  See my profile at [MrAbbas.ir](http://mrabbas.ir)
 * ✉️  You can contact me at [14amirabas@gmail.com](mailto:14amirabas@gmail.com)
 * 🧠  I'm learning React and Django
 * 🤝  I'm open to collaborating on interesting projects
