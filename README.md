@@ -4,7 +4,7 @@ Hi 👋 My name is Abbas
 Web Developer
 -------------
 
-I've been learning to code for 5 years after switching careers. I started with HTML, but have really found a passion for backend development,.
+After switching careers three years ago, I began learning to code with HTML. Over time, I developed a strong passion for frontend development and have been deepening my expertise in this area.
 
 * 🌍  I'm based in Mashhad
 * 🖥️  See my profile at [MrAbbas.ir](http://mrabbas.ir)
